@@ -1,0 +1,3 @@
+https://stackoverflow.com/questions/14808945/check-if-variable-is-dataframe
+When using my loop, if the user has more that 1 purchase, one_user_df = sn_index_df.loc[sn] would return a data frame.  If the user only had one purchase it would return a series.
+the calculations in my loop require a data frame so I used this link to find if my variable was returned as a data frame or as a series of data.
